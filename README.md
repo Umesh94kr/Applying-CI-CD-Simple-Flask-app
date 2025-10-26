@@ -39,7 +39,7 @@ flask-app/
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/umeshkr/flask-app.git
+git clone https://github.com/Umesh94kr/Applying-CI-CD-Simple-Flask-app.git
 cd flask-app
 ```
 ### 2️⃣ Create and activate a virtual environment

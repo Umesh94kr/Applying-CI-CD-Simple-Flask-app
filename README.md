@@ -5,7 +5,7 @@
 This project is a simple yet production-ready **Flask application** that demonstrates:
 - Building REST APIs in Python (Flask)
 - Docker containerization for easy deployment
-- GitHub Actions CI pipeline for automated testing with `pytest`
+- GitHub Actions CI - CD pipeline for automated testing with `pytest` and deployment
 - Clean and modular project structure
 
 ---
@@ -15,7 +15,7 @@ This project is a simple yet production-ready **Flask application** that demonst
 This repository is meant to show how to:
 - Develop and test a Flask app locally  
 - Run the same app inside a Docker container  
-- Automate testing using GitHub Actions  
+- Automate testing and deployment using GitHub Actions  
 - Push the image to Docker Hub (`umeshkr/flask-app`)
 
 ---
